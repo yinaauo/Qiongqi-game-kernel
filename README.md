@@ -1,11 +1,18 @@
-# 穷奇-游戏-内核 * Qiongqi-game-kernel 
-* 辅助游戏提高帧速率，降低功耗.
-* Assist games to increase frame rates and reduce power consumption.
-## Qiongqi game kernel的遐想
-该技术通过对安卓系统底层内核代码修改，深入芯片底层，实现芯片性能供给与游戏性能需求的精准匹配和平衡，解决游戏场景大量性能浪费问题
-## 本次更新:
-#### -解决了用户提出的问题
-#### -解决了提出问题的用户
-#### -更新了最新的版本号
-<此项目无限期停更
->
+窮奇-遊戲-內核 * Qiongqi-game-kernel
+
+· 輔助遊戲提高幀速率，降低功耗。
+· Assist games to increase frame rates and reduce power consumption.
+
+關於 Qiongqi game kernel 的構想
+
+此技術透過修改安卓系統底層內核代碼，深入晶片底層，實現晶片性能供給與遊戲性能需求的精準匹配與平衡，從而解決遊戲場景中大量性能浪費的問題。
+
+本次更新：
+
+- 解決了用戶提出的問題
+
+- 解決了提出問題的用戶
+
+- 更新至最新版本號
+
+＜此項目無限期停更＞
